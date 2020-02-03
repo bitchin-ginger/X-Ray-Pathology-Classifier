@@ -1,1 +1,1 @@
-# X-Ray-Pathology-Classifier
+# X-Ray-Pneumonia-Classifier
