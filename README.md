@@ -36,7 +36,7 @@ highest eigenvalues from PCA
 
 Pixel Shading Histograms, with or without Pneumonia distribution of pixels (shading histogram)
 
-End up doing SVD -- worth graphing the singular values
+Graph the singular values from SVD
 
 ## Models
 
@@ -44,6 +44,7 @@ Logistic Regression
 Gradient Boosted Classifier
 Random Forest Classifier
 SVM - Support Vector Machine
+CNN
 
 
 ## Considerations/Issues
