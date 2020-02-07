@@ -1,4 +1,4 @@
-# X-Ray-Pneumonia-Classifier
+# X-Ray-Pneumothorax-Classifier
 
 ## Project Goals 
 
